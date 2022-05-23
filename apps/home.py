@@ -8,7 +8,8 @@ import numpy as np
 from scipy.stats import norm
 import plotly.express as px
 from io import BytesIO
-#from pyxlsb import open_workbook as open_xlsb
+import pyxlsb
+from pyxlsb import open_workbook as open_xlsb
 
 
 
